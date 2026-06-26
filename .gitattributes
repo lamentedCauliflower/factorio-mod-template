@@ -13,3 +13,18 @@ README.md export-ignore
 .gitignore export-ignore
 .gitattributes export-ignore
 .releaserc export-ignore
+
+# dev environment (not part of the mod)
+devenv.nix export-ignore
+devenv.yaml export-ignore
+devenv.lock export-ignore
+.busted export-ignore
+.luacheckrc export-ignore
+.stylua.toml export-ignore
+.luarc.json export-ignore
+spec export-ignore
+scripts export-ignore
+docs export-ignore
+AGENTS.md export-ignore
+.envrc export-ignore
+benchmark export-ignore
